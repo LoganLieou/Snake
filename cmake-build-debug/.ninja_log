@@ -1,0 +1,25 @@
+# ninja log v5
+0	35	1713400413730336723	build.ninja	3b727656d15abd0e
+11	328	1713387039580025556	CMakeFiles/Tetris.dir/src/World.cpp.o	499d752a7a266a14
+6	286	1713400024493962279	CMakeFiles/Tetris.dir/src/Game.cpp.o	9a1a8604ec21eeba
+287	325	1713400024535171630	Tetris	efa6afea26c857ec
+6	303	1713399466900385232	CMakeFiles/Tetris.dir/src/Snake.cpp.o	2465de1b07ec53b7
+5	290	1713387822359803465	CMakeFiles/Tetris.dir/src/Window.cpp.o	f4fe5a79a7dd8a26
+286	324	1713278045923645106	bin/Tetris	4526268262765e35
+6	290	1713399979613614429	CMakeFiles/Tetris.dir/src/main.cpp.o	77752834982fd022
+0	301	1713400469696538062	CMakeFiles/Snake.dir/src/Main.cpp.o	f2d7f2c40b1c3d86
+1	304	1713400469700176561	CMakeFiles/Snake.dir/src/Game.cpp.o	a0ece200f9bcd3c1
+1	305	1713400469700759388	CMakeFiles/Snake.dir/src/Window.cpp.o	f8a1e361ca29b071
+1	306	1713400469701758959	CMakeFiles/Snake.dir/src/World.cpp.o	d68a75bddde4f459
+1	325	1713400469721333397	CMakeFiles/Snake.dir/src/Snake.cpp.o	b7a9f83ab0d8ac90
+325	367	1713400469765056927	Snake	f3886661233f3fee
+6	314	1713400644246071599	CMakeFiles/Snake.dir/src/Main.cpp.o	f2d7f2c40b1c3d86
+7	316	1713400644248250824	CMakeFiles/Snake.dir/src/World.cpp.o	d68a75bddde4f459
+6	317	1713400644248866525	CMakeFiles/Snake.dir/src/Game.cpp.o	a0ece200f9bcd3c1
+6	318	1713400644250376716	CMakeFiles/Snake.dir/src/Window.cpp.o	f8a1e361ca29b071
+7	335	1713400644267501974	CMakeFiles/Snake.dir/src/Snake.cpp.o	b7a9f83ab0d8ac90
+335	378	1713400644311678248	Snake	f3886661233f3fee
+6	297	1713400767766905696	CMakeFiles/Snake.dir/src/World.cpp.o	d68a75bddde4f459
+297	339	1713400767811035513	Snake	f3886661233f3fee
+6	281	1713400923668939361	CMakeFiles/Snake.dir/src/World.cpp.o	d68a75bddde4f459
+281	320	1713400923710247836	Snake	f3886661233f3fee
